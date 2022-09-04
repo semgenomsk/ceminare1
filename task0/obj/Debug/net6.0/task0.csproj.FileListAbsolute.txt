@@ -1,0 +1,15 @@
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\bin\Debug\net6.0\task0.exe
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\bin\Debug\net6.0\task0.deps.json
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\bin\Debug\net6.0\task0.dll
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\bin\Debug\net6.0\task0.pdb
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.dll
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\refint\task0.dll
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.pdb
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
+H:\GekBreans\Project-семинары\1 урок\Знакомство с языком с# - задачи\ceminare1\task0\obj\Debug\net6.0\ref\task0.dll
