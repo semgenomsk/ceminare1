@@ -1,9 +1,9 @@
 ﻿Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int numberA = Convert.ToInt32(Console.ReadLine());
 
-int count = -number;
-while (count <= number)
+int numberB = -numberA;
+while (numberB <= numberA)
 {
-    Console.Write(count + " ");
-    count++;
+    Console.Write(numberB + " ");
+    numberB++;
 }
